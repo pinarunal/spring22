@@ -1,4 +1,4 @@
-public class Day08StringManipulation01 {
+public class Day08StringManipulations01 {
 
     //If your code gives corrects output for some data and it doesn't give correct data for some others
     //It can not be accepted. That kind of codes are called "Hard Codding"
