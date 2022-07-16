@@ -1,3 +1,5 @@
+package day03;
+
 public class Day03DataTypes {
         /*
         Type casting: Converting number primitive data to another number primitive data type.

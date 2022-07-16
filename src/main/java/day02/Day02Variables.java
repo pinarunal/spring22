@@ -1,3 +1,5 @@
+package day02;
+
 public class Day02Variables {
 
     public static void main(String[] args) {
