@@ -93,7 +93,7 @@ public class Date01 {
         LocalDate d1 = LocalDate.now();
         LocalDate d2 = LocalDate.of(1453,5,29);
 
-        int ageYear = Period.between(d2,d1).getYears();
+        int ageYear = Period.between(d2,d1).getDays();
         System.out.println("ageYear = " + ageYear);
 
 

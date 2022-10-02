@@ -1,3 +1,5 @@
+package day10;
+
 public class Day10ForLoop04 {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package day09;
+
 import java.util.Scanner;
 
 public class Day09StringManipulations01 {
